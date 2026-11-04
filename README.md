@@ -1,4 +1,4 @@
-# TripleTen · Web Scraping — Sprint 7 (Coleta e Armazenamento de Dados)
+# Web Scraping with Python — Regex, BeautifulSoup & pandas
 
 Exercícios de extração de dados da página de exemplo
 [simple-shop_pt-br](https://tripleten-com.github.io/simple-shop_pt-br/), do programa **Data Scientist** da TripleTen.
